@@ -1,0 +1,11 @@
+{
+  "name": "meredio",
+  "version": "1.0.0",
+  "description": "A super-app based intra-college marketplace for college essentials ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Soumyadeep Paul",
+  "license": "ISC"
+}
